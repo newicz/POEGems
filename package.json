@@ -1,0 +1,35 @@
+{
+  "name": "poegems",
+  "version": "1.0.0",
+  "description": "Little script containing all the gems in the POE based on POE WIKI",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/ts-node/dist/bin.js index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newicz/POEGems.git"
+  },
+  "keywords": [
+    "POE",
+    "gems",
+    "Path",
+    "of",
+    "Exile"
+  ],
+  "author": "newicz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newicz/POEGems/issues"
+  },
+  "homepage": "https://github.com/newicz/POEGems#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "ts-node": "^8.4.1",
+    "typescript": "^3.6.4"
+  },
+  "devDependencies": {
+    "@types/node": "^12.11.1"
+  }
+}
