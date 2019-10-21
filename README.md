@@ -30,8 +30,7 @@ The structure of the gem can be found below along with some example.
               "classes": "Array of classes that have this gem as a reward"
             }
           ]
-        },
-        ...
+        }
     ]
 }
 ```
