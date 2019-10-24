@@ -98,4 +98,4 @@ npm run start
 In the effect there will be a file generated in `dist/` folder called `gems.json`.
  
 ## Ready file
-There is already `gmes.json` committed into the repository (in `dist/` folder), but I am not giving any guarantee, that it is up-to-date. It is always better to run the script yourself.
+There is already `gems.json` committed into the repository (in `dist/` folder), but I am not giving any guarantee, that it is up-to-date. It is always better to run the script yourself.
